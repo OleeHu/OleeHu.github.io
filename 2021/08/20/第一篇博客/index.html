@@ -155,7 +155,7 @@
   </li>
         <li class="menu-item menu-item-archives">
 
-    <a href="/archives/" rel="section"><i class="fa fa-book-open fa-fw"></i>归档（￣︶￣）↗　<span class="badge">1</span></a>
+    <a href="/archives/" rel="section"><i class="fa fa-book-open fa-fw"></i>归档（￣︶￣）↗　<span class="badge">10</span></a>
 
   </li>
         <li class="menu-item menu-item-sitemap">
@@ -340,6 +340,13 @@ Coding竟然不能自己更新，更可恶的是连一个更新按钮都没有�
 
 
         
+    <div class="post-nav">
+      <div class="post-nav-item"></div>
+      <div class="post-nav-item">
+    <a href="/2021/08/21/1/" rel="next" title="1">
+      1 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
       </footer>
     
   </article>
@@ -438,7 +445,7 @@ Coding竟然不能自己更新，更可恶的是连一个更新按钮都没有�
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">1</span>
+          <span class="site-state-item-count">10</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -790,7 +797,7 @@ window.addEventListener('pjax:success', () => {
 
 <script>
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
     var GUEST = ['nick', 'mail', 'link'];
     var guest = 'nick,mail,link';
     guest = guest.split(',').filter(item => {
@@ -800,8 +807,8 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       el         : '#valine-comments',
       verify     : false,
       notify     : false,
-      appId      : 'cQx0xACjvgoy6LreLDPv8uBx-gzGzoHsz# Your leancloud application appid',
-      appKey     : 'cQx0xACjvgoy6LreLDPv8uBx-gzGzoHsz# Your leancloud application appkey',
+      appId      : 'cQx0xACjvgoy6LreLDPv8uBx-gzGzoHsz',
+      appKey     : 'RR5FPCGrAvP0OaEFHF2lbjAy',
       placeholder: "ヾﾉ≧∀≦)o 来呀！吐槽一番吧！",
       avatar     : 'mm',
       meta       : guest,

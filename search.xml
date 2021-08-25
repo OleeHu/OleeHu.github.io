@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>第一篇博客</title>
-    <url>/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="我的第一篇博客"><a class="markdownIt-Anchor" href="#我的第一篇博客"></a> 我的第一篇博客</h1>
-<p>从今天开始，我开启了我的博客<span id="more"></span>，虽然还有许多瑕疵，但我会慢慢完善，当我开始写博客我才发觉我还不会用Markdown.之后将开始弄我的网站，会将网站与博客关联，又是麻烦耗时间的一件事。<br />
-Coding地址：<a href="https://serverless-page-bucket-yddstvg6-1256494254.cos-website.ap-hongkong.myqcloud.com/%E3%80%82%EF%BC%88%E7%AB%9F%E7%84%B6%E6%98%AF%E6%AF%8F%E9%83%A8%E7%BD%B2%E4%B8%80%E6%AC%A1%EF%BC%8C%E5%B0%B1%E6%8D%A2%E4%B8%80%E6%AC%A1%F0%9F%98%92%EF%BC%89">https://serverless-page-bucket-yddstvg6-1256494254.cos-website.ap-hongkong.myqcloud.com/。（竟然是每部署一次，就换一次😒）</a><br />
-GitHub地址： <a href="https://oleehu.github.io/">https://oleehu.github.io/</a><br />
-腾讯死要钱，gitee和GitHub既免费又给简短域名，不像腾讯看那网址长的像什么，还要自己去买域名，更可恶的是，挂载还不免费，要不是gitee不知道哪里出了问题，用不了，鬼才来coding。gitee只能用来挂载网站了。<br />
-Coding竟然不能自己更新，更可恶的是连一个更新按钮都没有，GitHub也发现了一个bug，不能显示评论。（我错了，Coding还是有更新按钮的）<br />
-<a href="https://oleehu.coding.net/s/a9217d68-6c02-49d1-bb71-8b19309af4c7">https://oleehu.coding.net/s/a9217d68-6c02-49d1-bb71-8b19309af4c7</a></p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一篇博客</title>
+      <link href="/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="我的第一篇博客"><a class="markdownIt-Anchor" href="#我的第一篇博客"></a> 我的第一篇博客</h1><p>从今天开始，我开启了我的博客<span id="more"></span>，虽然还有许多瑕疵，但我会慢慢完善，当我开始写博客我才发觉我还不会用Markdown.之后将开始弄我的网站，会将网站与博客关联，又是麻烦耗时间的一件事。<br />Coding地址：<a href="https://serverless-page-bucket-yddstvg6-1256494254.cos-website.ap-hongkong.myqcloud.com/%E3%80%82%EF%BC%88%E7%AB%9F%E7%84%B6%E6%98%AF%E6%AF%8F%E9%83%A8%E7%BD%B2%E4%B8%80%E6%AC%A1%EF%BC%8C%E5%B0%B1%E6%8D%A2%E4%B8%80%E6%AC%A1%F0%9F%98%92%EF%BC%89">https://serverless-page-bucket-yddstvg6-1256494254.cos-website.ap-hongkong.myqcloud.com/。（竟然是每部署一次，就换一次😒）</a><br />GitHub地址： <a href="https://oleehu.github.io/">https://oleehu.github.io/</a><br />腾讯死要钱，gitee和GitHub既免费又给简短域名，不像腾讯看那网址长的像什么，还要自己去买域名，更可恶的是，挂载还不免费，要不是gitee不知道哪里出了问题，用不了，鬼才来coding。gitee只能用来挂载网站了。<br />Coding竟然不能自己更新，更可恶的是连一个更新按钮都没有，GitHub也发现了一个bug，不能显示评论。（我错了，Coding还是有更新按钮的）<br /><a href="https://oleehu.coding.net/s/a9217d68-6c02-49d1-bb71-8b19309af4c7">https://oleehu.coding.net/s/a9217d68-6c02-49d1-bb71-8b19309af4c7</a></p>]]></content>
+      
+      
       <categories>
-        <category>测试博客</category>
+          
+          <category> 测试博客 </category>
+          
       </categories>
-      <tags>
-        <tag>测试博客</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 测试博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>

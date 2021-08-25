@@ -3,11 +3,11 @@
   <title>Olee Huの博客</title>
   
   
-  <link href="https://oleehu.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.oleehu.xyz/atom.xml" rel="self"/>
   
-  <link href="https://oleehu.github.io/"/>
+  <link href="https://blog.oleehu.xyz/"/>
   <updated>2021-08-21T12:49:50.604Z</updated>
-  <id>https://oleehu.github.io/</id>
+  <id>https://blog.oleehu.xyz/</id>
   
   <author>
     <name>Olee Hu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇博客</title>
-    <link href="https://oleehu.github.io/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://oleehu.github.io/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://blog.oleehu.xyz/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blog.oleehu.xyz/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-08-20T15:31:58.000Z</published>
     <updated>2021-08-21T12:49:50.604Z</updated>
     
@@ -31,10 +31,10 @@
     
     
     
-    <category term="测试博客" scheme="https://oleehu.github.io/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
+    <category term="测试博客" scheme="https://blog.oleehu.xyz/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="测试博客" scheme="https://oleehu.github.io/tags/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
+    <category term="测试博客" scheme="https://blog.oleehu.xyz/tags/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   

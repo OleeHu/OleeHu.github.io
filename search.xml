@@ -2,8 +2,8 @@
 <search>
   <entry>
     <title>第一篇博客</title>
-    <url>/blog/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\blog\assets\js\Meting.min.js"></script><h1 id="我的第一篇博客"><a class="markdownIt-Anchor" href="#我的第一篇博客"></a> 我的第一篇博客</h1>
+    <url>/2021/08/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="我的第一篇博客"><a class="markdownIt-Anchor" href="#我的第一篇博客"></a> 我的第一篇博客</h1>
 <p>从今天开始，我开启了我的博客<span id="more"></span>，虽然还有许多瑕疵，但我会慢慢完善，当我开始写博客我才发觉我还不会用Markdown.之后将开始弄我的网站，会将网站与博客关联，又是麻烦耗时间的一件事。<br />
 Coding地址：<a href="https://serverless-page-bucket-yddstvg6-1256494254.cos-website.ap-hongkong.myqcloud.com/%E3%80%82%EF%BC%88%E7%AB%9F%E7%84%B6%E6%98%AF%E6%AF%8F%E9%83%A8%E7%BD%B2%E4%B8%80%E6%AC%A1%EF%BC%8C%E5%B0%B1%E6%8D%A2%E4%B8%80%E6%AC%A1%F0%9F%98%92%EF%BC%89">https://serverless-page-bucket-yddstvg6-1256494254.cos-website.ap-hongkong.myqcloud.com/。（竟然是每部署一次，就换一次😒）</a><br />
 GitHub地址： <a href="https://oleehu.github.io/">https://oleehu.github.io/</a><br />

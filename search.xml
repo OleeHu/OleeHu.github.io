@@ -66,6 +66,24 @@ D--Tr--->B;
 B--ST--->D;
 B==>F-->G;</pre>
 </div>
+<pre class="mermaid">
+graph TD;
+A[复位];
+B(控制单元);
+C[时钟];
+D(定时器);
+E[传感S];
+F(译码器);
+G(信号灯);
+A-->B;C-->B;
+E-->B;
+A-->D;
+C-->D;
+D--Tl--->B;
+D--Ts--->B;
+D--Tr--->B;
+B--ST--->D;
+B==>F-->G;</pre>
 <h4 align = "center">图 1 &#8195;&#8195;系统的原理框图</h4>
 <h4 id="212秒脉冲发生器"><a class="markdownIt-Anchor" href="#212秒脉冲发生器"></a> 2.1.2秒脉冲发生器</h4>
 <p>  秒脉冲发生器由NE555电路及外围电路组成，其中R1=R2=7.15K,C=100uF的电阻电容值决定了脉冲宽度。既T=(R1+R2)<em>C</em>ln2当T=1S，即可凑出R1、R2、C3其中Cf=0.01uF是为了保持输出的波形的稳定。如图 2所示， R2=68K、C=100uF组成一个串联RC充放电电路，在NE555的7脚上输出一个方波信号，C上得到一个三角波。此三角波送到NE555的2脚输入端。由NE555内部的比较器和门电路共同作用，维持7脚上的方波信号和3脚上的输出方波。</p>
@@ -612,7 +630,9 @@ B==>F-->G;</pre>
 <div align=center>
 <p><img src="https://qn.oleehu.xyz/901f60c8df66c93203c7f38ad2dede702fe0df9c332bcd6181cb6239fcbc5af2.png" alt="图 12" /></p>
 </div> 
-<!-- </font> -->]]></content>
+<!-- </font> -->
+&#8195;&#8195;源文件：
+&#8195;&#8195;  https://gitee.com/huguotao143/traffic_-rtl              ]]></content>
       <categories>
         <category>课设</category>
       </categories>
